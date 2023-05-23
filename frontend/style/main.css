@@ -1,0 +1,265 @@
+/* navbar */
+.navbar{
+    padding-left: 120px;
+    padding-right: 120PX;
+}
+
+.navbar-brand{
+    font-family: 'Mont';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    color: #000000;
+}
+
+.nav-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    color: #000000 !important;
+
+}
+
+/* tutup navbar */
+
+/* kata brand */
+
+.why{
+    margin-top: 184px;
+    font-family: 'Mont';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.kata{
+    margin-top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+/* tutup kata brand */
+
+/* popular products */
+.pop{
+    margin-left: 120px;
+    margin-top: 137px;
+    margin-bottom: 61px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+}
+
+.popular-produk{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.pp-name{
+    margin-top: 17px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.pp-price1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #D84B4B;
+}
+
+.pp-price{
+    margin-top: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #D84B4B;
+}
+
+.pp{
+    margin-left: 40px;
+}
+
+/* tutup popular products */
+
+/* kategori */
+.kategori{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.wrap{
+    margin-left: 28px;
+    transition: all 0.2s ease;
+}
+
+.wrap:hover{
+    transform: scale(1.1);
+}
+
+.wrap1{
+    transition: all 0.2s ease;
+}
+
+.wrap1:hover{
+    transform: scale(1.1);
+}
+/* tutup kategori */
+
+/* testimonial */
+
+.testimonial{
+    margin-top: 150px;
+    margin-left: 120px;
+}
+
+.testi{
+    margin-left: 51px;
+}
+
+.rate{
+    margin-left: -12px;
+}
+
+.test-brand{
+    font-family: 'Mont';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    color: #000000;
+}
+
+.test-kata{
+    margin-top: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #000000;
+
+}
+
+.test-name{
+    margin-top: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #8D8D8D;
+}
+
+.btn-read{
+    margin-top: 30px;
+    box-sizing: border-box;
+    width: 206px;
+    height: 45px;
+    background: #F5C378;
+    border: 1px solid #000000;
+    border-radius: 7px;
+    transition: all 0.2s ease;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #000000;
+}
+
+.btn-read:hover{
+    width: 220px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+/* tutup testimonial */
+
+/* footer */
+footer{
+    margin-top: 120px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 58px;
+    background: #C2C2C2;
+    padding-bottom: 90px;
+}
+
+.foot-brand{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+
+}
+
+.footkata{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.help{
+    margin-top: -10px;
+    margin-left: 144px;
+}
+
+.category{
+    margin-top: -35px;
+    margin-left: 124px;
+}
+
+.foot-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.icon-sosmed{
+    font-size: 30px;
+    color: #000000;
+}
+
+.sosmed{
+    margin-top: -65px;
+    margin-left: 162px;
+}
+
+.copyright{
+    box-sizing: border-box;
+    width: 1440px;
+    height: 45px;
+    background: #C2C2C2;
+    border-top: 1px solid #000000;
+}
+
+.copyright h5{
+    padding-top: 12px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+
+    color: #000000;
+}
+/* tutup footer */

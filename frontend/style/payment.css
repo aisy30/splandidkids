@@ -1,0 +1,232 @@
+/* navbar */
+nav{
+    box-sizing: border-box;
+    width: 1440px;
+    height: 50px;
+    background: #FFFFFF;
+    border-bottom: 1px solid #000000;
+}
+
+.nav-brand{
+    font-family: 'Mont';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 12px;
+    letter-spacing: 0.05em;
+
+    color: #000000;
+}
+
+/* tutup navbar */
+
+/* booking */
+
+.book{
+    margin-top: 114px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.info{
+    margin-top: 19px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.img-nama{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+
+}
+
+.dtil{
+    margin-top: 100px;
+}
+
+.book-img{
+    margin-left: 224px;
+}
+
+
+.garis{
+    margin-left: 123px;
+    width: 0px;
+    height: 516px;
+    border: 1px solid #000000;
+}
+
+.data{
+    margin-left: 83px;
+}
+
+.pal{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.grup{
+    margin-top: 30px;
+}
+
+.form-text{
+    box-sizing: border-box;
+    width: 280px;
+    height: 35px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    padding-left: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    color: #000000;
+}
+
+.palu{
+    margin-top: 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.custom-file-input{
+    box-sizing: border-box;
+    width: 247px;
+    height: 31px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+.btn-submit{
+    margin-top: 122px;
+    width: 374px;
+    height: 64px;
+    background: #BD9D80;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.btn-cancel{
+    margin-top: 30px;
+    width: 374px;
+    height: 64px;
+    background: #FFFFFF;
+    border: 1px solid #BD9D80;
+    border-radius: 8px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+
+    color: #BD9D80;
+
+}
+
+
+/* tutup booking */
+
+
+/* footer */
+footer{
+    margin-top: 120px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 58px;
+    background: #C2C2C2;
+    padding-bottom: 90px;
+}
+
+.foot-brand{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+
+}
+
+.footkata{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.help{
+    margin-top: -10px;
+    margin-left: 144px;
+}
+
+.category{
+    margin-top: -35px;
+    margin-left: 124px;
+}
+
+.foot-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.icon-sosmed{
+    font-size: 30px;
+    color: #000000;
+}
+
+.sosmed{
+    margin-top: -65px;
+    margin-left: 162px;
+}
+
+.copyright{
+    box-sizing: border-box;
+    width: 1440px;
+    height: 45px;
+    background: #C2C2C2;
+    border-top: 1px solid #000000;
+}
+
+.copyright h5{
+    padding-top: 12px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+
+    color: #000000;
+}
+/* tutup footer */
+
